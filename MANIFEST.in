@@ -1,0 +1,4 @@
+include rotasort/schema.sql
+graft rotasort/static
+graft rotasort/templates
+global-exclude *.pyc
