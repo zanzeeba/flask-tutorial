@@ -2,6 +2,9 @@ import os
 
 from flask import Flask
 
+import logging
+logging.basicConfig(filename='error.log',level=logging.DEBUG)
+
 
 def create_app(test_config=None):
     # create and configure the app
@@ -32,11 +35,11 @@ def create_app(test_config=None):
     from . import db
     db.init_app(app)
 
+    from . import blog
     from . import auth
+    app.register_blueprint(blog.bp)
     app.register_blueprint(auth.bp)
 
-    from . import blog
-    app.register_blueprint(blog.bp)
     app.add_url_rule('/', endpoint='index')
 
     return app
