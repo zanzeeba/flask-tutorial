@@ -105,3 +105,199 @@ INFO:werkzeug:127.0.0.1 - - [08/Feb/2020 15:01:47] "GET /1/update HTTP/1.1" 200 
 INFO:werkzeug:127.0.0.1 - - [08/Feb/2020 15:01:55] "POST /1/update HTTP/1.1" 302 -
 DEBUG:root:i am in blog.py
 INFO:werkzeug:127.0.0.1 - - [08/Feb/2020 15:01:55] "GET / HTTP/1.1" 200 -
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:no user
+DEBUG:root:wrong password
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:no user
+DEBUG:root:wrong password
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:no user
+DEBUG:root:wrong password
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:no user
+DEBUG:root:wrong password
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:no user
+DEBUG:root:wrong password
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:no user
+DEBUG:root:wrong password
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:no user
+DEBUG:root:wrong password
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:no user
+DEBUG:root:wrong password
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:no user
+DEBUG:root:wrong password
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:no user
+DEBUG:root:wrong password
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:no user
+DEBUG:root:wrong password
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:i am in blog.py
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
+DEBUG:root:seems ok
